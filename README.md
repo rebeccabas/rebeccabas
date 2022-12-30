@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rebeccabas
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in Data Science, AI and webdev
 - 🌱 I’m currently learning Python
 - 📫 How to reach me @rubika_bashyal(instagram), 078bct068.rubika@pcampus.edu.np(email) 
 
