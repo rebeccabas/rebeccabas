@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rubika Bashyal.</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rebeccabas&label=Profile%20views&color=0e75b6&style=flat" alt="rebeccabas" /> </p>
 
-<p align="left"> <a href="https://twitter.com/rebeccaa_bas" target="blank"><img src="https://img.shields.io/twitter/follow/rebeccaa_bas?logo=twitter&style=for-the-badge" alt="rebeccaa_bas" /></a> </p>
 
 - 📫 How to reach me: **bashyalrubika@gmail.com**
 
